@@ -24,6 +24,7 @@ Welcome to the AgriTech Crop Suggestions System! This project provides an intell
 ## Run the model
 python MLmodel.py
 ## 🌐 Running the Web Interface
+https://crop-suggestion-system-5exc.vercel.app/
 # Execute the following command:
 python myapp.py
 
